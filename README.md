@@ -1,4 +1,4 @@
-![Screenshot (5)](https://user-images.githubusercontent.com/87125700/131016862-6576531f-078a-4320-a34e-26c722d751c1.png)
+
 # Shopaholic
 
 This application is an ecommerce website just like Amazon & flipkart.
@@ -7,7 +7,7 @@ Complete authentication & payment with Paypal.
 ![image](https://user-images.githubusercontent.com/87125700/131010265-53108cf3-9399-49a3-ae11-f8888c41e0c6.png)
 ![image](https://user-images.githubusercontent.com/87125700/131010347-1a207d74-1d61-4de1-88aa-fd4b9b82886f.png)
 ![image](https://user-images.githubusercontent.com/87125700/131010479-66667177-ddee-43d3-ac25-b70b60c3e4de.png)
-
+![Screenshot (5)](https://user-images.githubusercontent.com/87125700/131016862-6576531f-078a-4320-a34e-26c722d751c1.png)
 
 
 #Available Scripts
