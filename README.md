@@ -1,3 +1,4 @@
+![Screenshot (5)](https://user-images.githubusercontent.com/87125700/131016862-6576531f-078a-4320-a34e-26c722d751c1.png)
 # Shopaholic
 
 This application is an ecommerce website just like Amazon & flipkart.
